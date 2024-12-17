@@ -1,4 +1,4 @@
-# Project Animated profile
+# Animated profile
 
 ## Description  
 It is my profile id card with animated feature. 
